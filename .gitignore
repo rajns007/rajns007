@@ -1,0 +1,7 @@
+# ignore the files name starting with .log
+*.log
+
+
+#ignore the file or directory name starting with temp
+
+temp/
